@@ -1,2 +1,3 @@
 # Flappy_Bird
-Python/pygame
+Plappy Bird
+
